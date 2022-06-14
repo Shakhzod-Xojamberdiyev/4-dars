@@ -1,0 +1,43 @@
+
+
+.text-style {
+font-family: 'Karla';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 1.5px;
+
+color: #837D88;
+}
+
+.main-section {
+    background-color: #2D2641;
+}
+.main-section-text {
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 64px;
+letter-spacing: -1px;
+color: #FFFFFF;
+}
+.main-p-text {
+line-height: 26px;
+color: #FFFFFF;
+}
+.view-plan {
+    color: white;
+}
+
+.adv-box {
+    background-color: #2D2641;
+}
+.adv-text {
+    color: white;
+}
+.adv-last-text {
+    color: white;
+}
